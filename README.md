@@ -1,6 +1,6 @@
 # LKM Process Identifier 
 
-# DESCRIPTION 
+# Description 
 
 This is a loadable kernel module that will iteratively display process information for children of a user-defined PID. 
 

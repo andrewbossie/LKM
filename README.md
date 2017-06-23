@@ -6,4 +6,4 @@ This is a loadable kernel module that will iteratively display process informati
 
 # Installation
 
-On Linux, make with makefile. Run sudo insmod on the newly created kernel object including user-defined PID number. 
+On Linux, make with makefile. Run 'sudo insmod' on the newly created kernel object including user-defined PID number. Display information after loading module by calling 'dmesg' on your logfile location (usually var/log/syslog)
